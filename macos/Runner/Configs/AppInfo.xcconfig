@@ -8,7 +8,7 @@
 PRODUCT_NAME = najlepsze_sushi_wroclaw
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.najlepszeSushiWroclaw
+PRODUCT_BUNDLE_IDENTIFIER = com.adaigosia.najlepszeSushiWroclaw
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2023 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2023 com.adaigosia. All rights reserved.

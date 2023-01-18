@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330343621662",
+    "project_id": "sushi-wroclaw-69",
+    "storage_bucket": "sushi-wroclaw-69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330343621662:android:2d9ca5a485f8ebefdd3a0f",
+        "android_client_info": {
+          "package_name": "com.adaigosia.najlepsze_sushi_wroclaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330343621662-v582no87bphr3bg04jrnrht832kfdjp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHs5i28mPAwOk1UCgvJ77ont2LvWGkjuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330343621662-v582no87bphr3bg04jrnrht832kfdjp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
